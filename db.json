@@ -17,7 +17,65 @@
     "author": "Ediciones Ubiqum",
     "description": "En ocasiones crees entender algo cuando te lo están explicando, pero en el momento de ponerte a programar surge siempre esta duda. ¿Lo ves?. Eduard Català se saca de la manga una obra maestra de la ciencia ficción.",
     "language": "es"
+  },
+  {  
+     "id": 3,
+     "cover":"https://preview.ibb.co/bC5ELQ/alex_min.png",
+     "detail":"https://preview.ibb.co/deD10Q/alex_min.png",
+     "title":"Dímelo en palabras",
+     "description":"El polifacético escritor catalán nos muestra en su novela más romántica como, básicamente, nuestra relación es tan fácil como decirnos las cosas como son. Tal cual.",
+     "language":"es"
+  },
+  {  
+    "id": 4,
+     "cover":"https://preview.ibb.co/dvM9AQ/eddie_min.png",
+     "detail":"https://preview.ibb.co/hnT0H5/eddie_min.png",
+     "title":"Lo veo negro",
+     "description":"En ocasiones crees entender algo cuando te lo están explicando, pero en el momento de ponerte a programar surge siempre esta duda. ¿Lo ves?. Eduard Català se saca de la manga una obra maestra de la ciencia ficción.",
+     "language":"es"
+  },
+  {  
+     "id": 5,
+     "cover":"https://preview.ibb.co/nF3Un5/flecha_min.png",
+     "detail":"https://preview.ibb.co/dUgbZk/flecha_min.png",
+     "title":"Mi algoritmo es más rápido",
+     "description":"De nuevo Guerrero, de nuevo el flecha. Un libro que te deja atado a su trama desde que abres la cubierta. Te atrapa rápido, muy rápido, hyper rápido.",
+     "language":"es"
+  },
+  {  
+     "id": 6,
+     "cover":"https://preview.ibb.co/hPod4k/joan_min.png",
+     "detail":"https://preview.ibb.co/f6J6qQ/joan_min.png",
+     "title":"Amazing Design Art",
+     "description":"Delicado y cuidado en cada palabra, este segundo tomo de la Trilogía 'Amor Front-End' es de momento el más sofisticado del autor. Nos fascinó 'Romance CSS', nos encanta este, ¿Qué nos deparará 'Orgasmo JavaScript'?",
+     "language":"es"
+  },
+  {  
+     "id": 7,
+     "cover":"https://preview.ibb.co/iVRAuk/maruti_min.png",
+     "detail":"https://preview.ibb.co/fyBzn5/maruti_min.png",
+     "title":"The Javascript Guru",
+     "description":"From India to Spain, this book explains us how your dreams like a developer can be real. Functions, Objects, Variables... All of JavaScript is here in this Amazing book.",
+     "language":"en"
+  },
+  {  
+     "id": 8,
+     "cover":"https://preview.ibb.co/n82iEk/oruc_min.png",
+     "detail":"https://preview.ibb.co/h3GbZk/oruc_min.png",
+     "title":"Azerbaijan Roulette",
+     "description":"Meanwhile you wait for the next Code challenge you can play some football with your mates... GOOOOOOOAAAAL!!",
+     "language":"en"
+  },
+  {  
+     "id": 9,
+     "cover":"https://preview.ibb.co/bHMWPk/roosy_min.png",
+     "detail":"https://preview.ibb.co/iwNGqQ/roosy_min.png",
+     "title":"Java... what?",
+     "description":"For those of you that don't understand nothing about new technologies, Mr. Roosy arrives to give you some ray of light in your darkness. You'll never ask Java...what? again.",
+     "language":"en"
   }
-]
+ ]
 }
+
+
   
