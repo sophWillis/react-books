@@ -1,19 +1,23 @@
 {
   "posts": [
-    {
-      "cover": "https://preview.ibb.co/bC5ELQ/alex_min.png",
-      "detail": "https://preview.ibb.co/deD10Q/alex_min.png",
-      "title": "Dímelo en palabras",
-      "description": "El polifacético escritor catalán nos muestra en su novela más romántica como, básicamente, nuestra relación es tan fácil como decirnos las cosas como son. Tal cual.",
-      "language": "es"
-    },
-    {
-      "cover": "https://preview.ibb.co/dvM9AQ/eddie_min.png",
-      "detail": "https://preview.ibb.co/hnT0H5/eddie_min.png",
-      "title": "Lo veo negro",
-      "description": "En ocasiones crees entender algo cuando te lo están explicando, pero en el momento de ponerte a programar surge siempre esta duda. ¿Lo ves?. Eduard Català se saca de la manga una obra maestra de la ciencia ficción.",
-      "language": "es"
-    }
-  ]
+  {
+    "id": 1,
+    "cover": "https://preview.ibb.co/bC5ELQ/alex_min.png",
+    "detail": "https://preview.ibb.co/deD10Q/alex_min.png",
+    "title": "Dímelo en palabras",
+    "author": "Álex López",
+    "description": "El polifacético escritor catalán nos muestra en su novela más romántica como, básicamente, nuestra relación es tan fácil como decirnos las cosas como son. Tal cual.",
+    "language": "es"
+  },
+  {
+    "id": 2,
+    "cover": "https://preview.ibb.co/dvM9AQ/eddie_min.png",
+    "detail": "https://preview.ibb.co/hnT0H5/eddie_min.png",
+    "title": "Lo veo negro",
+    "author": "Ediciones Ubiqum",
+    "description": "En ocasiones crees entender algo cuando te lo están explicando, pero en el momento de ponerte a programar surge siempre esta duda. ¿Lo ves?. Eduard Català se saca de la manga una obra maestra de la ciencia ficción.",
+    "language": "es"
+  }
+]
 }
   
